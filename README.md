@@ -4,7 +4,7 @@
 This dataset contains detailed records of road traffic accidents reported in the UK. It provides information about accident severity, date/time, location, road types, weather, vehicle involvement, lighting conditions, and more. It is ideal for exploring patterns in accident severity, geographic risk, and environmental effects.
 
 ---
-##🔍 Key Highlights
+## 🔍 Key Highlights
 - Over 300,000 records of accidents, 21 columns
 
 - Covers location, time, weather, road types, casualties, and more
